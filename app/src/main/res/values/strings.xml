@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">inSynch</string>
+
+    <string name="hello_world">Enter the IP address of the remote computer to get the time offset.</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_offset">no tests yet</string>
+    <string name="remote_ip">remote ip</string>
+    <string name="button_new">Get time offset</string>
+    <string name="time_offsetAverage">Get time offset</string>
+</resources>
